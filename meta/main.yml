@@ -1,0 +1,17 @@
+---
+galaxy_info:
+  author: Shanmugaram
+  description: A simple role to install Apache and deploy a static page
+  company: personal
+  license: MIT
+
+  min_ansible_version: 2.9
+
+  platforms:
+    - name: Ubuntu
+      versions:
+        - focal
+        - jammy
+
+dependencies: []
+
